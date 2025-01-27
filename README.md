@@ -2,11 +2,11 @@
 
 ## Analise de Sentimentos com Language Studio no Azure AI
 
+
 Para realizar essa análise, foi utilizado o recurso do Language Studio, análise de sentimentos e opiniões:
+![Captura de tela_20250127_141221](https://github.com/user-attachments/assets/824ef517-7d7b-4dea-b483-05f4233ebc88)
 
-
-
-### Pontos Positivos
+### Pontos Positivos identificados
 
 Aqui estão alguns pontos positivos do uso do **Language Studio**, incluindo a funcionalidade de **análise de sentimentos e opiniões**:
 
@@ -43,40 +43,30 @@ Aqui estão alguns pontos positivos do uso do **Language Studio**, incluindo a f
 Foram realizados três testes e todos obtiveram resultados bem detalhados:
 
 #### Teste 1: Experiência Extremamente Negativa
-
-![Captura de tela\_20250127\_140419]\([https://github.com/user-attachments/assets/3fad3740-9cbf-4831-9bf1-f6993e44041e](https://github.com/user-attachments/assets/3fad3740-9cbf-4831-9bf1-f6993e44041e))
-
-
+![Captura de tela_20250127_140419](https://github.com/user-attachments/assets/cd91d745-7407-4b78-ab73-0f278b1908e1)
 
 - É feita a escolha do idioma e do texto, podendo ser feito um upload ou apenas copiar e colar.
+![Captura de tela_20250127_140519](https://github.com/user-attachments/assets/456bcd3c-6fe9-475b-8d81-5b020e3908ff)
 
-  ![Captura de tela\_20250127\_140519]\([https://github.com/user-attachments/assets/8ae6c272-40e8-47c1-ae5b-ca2932d32246](https://github.com/user-attachments/assets/8ae6c272-40e8-47c1-ae5b-ca2932d32246))
 - Nessa análise foi identificado que o cliente teve uma experiência extremamente negativa e foram apontados os pontos-chave que certificam a indignação do cliente.
-
-  ![Captura de tela\_20250127\_140529]\([https://github.com/user-attachments/assets/566d326f-27bd-46ca-92c7-8791761c73c3](https://github.com/user-attachments/assets/566d326f-27bd-46ca-92c7-8791761c73c3))
+![Captura de tela_20250127_140529](https://github.com/user-attachments/assets/42404270-5332-4f4e-ae42-ff90aac98e47)
 
 #### Teste 2: Experiência Satisfatória
+![Captura de tela_20250127_140654](https://github.com/user-attachments/assets/22566828-a462-4849-bdd8-f420454080d6)
 
 - Nessa análise, foi reconhecida a satisfação do cliente com o produto, destacando os pontos positivos.
-
-  ![Captura de tela\_20250127\_140654]\([https://github.com/user-attachments/assets/ef33de7e-865a-4914-aeaa-9ef3a839b371](https://github.com/user-attachments/assets/ef33de7e-865a-4914-aeaa-9ef3a839b371))
-
-  ![Captura de tela\_20250127\_140628]\([https://github.com/user-attachments/assets/1fd20307-93fb-424f-8539-80df6221addb](https://github.com/user-attachments/assets/1fd20307-93fb-424f-8539-80df6221addb))
-
-  ![Captura de tela\_20250127\_140642]Teste)&#x20;
+![Captura de tela_20250127_140628](https://github.com/user-attachments/assets/c90f2bea-6a47-4b1c-a161-4c761d2feb53)
+![Captura de tela_20250127_140642](https://github.com/user-attachments/assets/eac4c41c-3290-4e94-a03b-97f95c785ea9)
 
 
+####Teste 3: Pontos Positivos e Negativos Identificados
 
-Teste 3: Pontos Positivos e Negativos Identificados
-
-Na última análise, foi possível identificar tanto pontos negativos quanto positivos de forma coerente.
-
-![Captura de tela\_20250127\_140857]\([https://github.com/user-attachments/assets/96311bbe-2de1-484e-b904-6949dd379ab1](https://github.com/user-attachments/assets/96311bbe-2de1-484e-b904-6949dd379ab1))
-
-![Captura de tela\_20250127\_140805]\([https://github.com/user-attachments/assets/a444c22b-f004-4c3f-93b5-a24af55aad40](https://github.com/user-attachments/assets/a444c22b-f004-4c3f-93b5-a24af55aad40))
+Na última análise, foi possível identificar tanto pontos negativos quanto positivos de forma coerente
+![Captura de tela_20250127_140857](https://github.com/user-attachments/assets/86260caf-bace-4e1d-88bf-65056ad38aea)
+![Captura de tela_20250127_140805](https://github.com/user-attachments/assets/52c4cb5d-5cb8-414c-bdf4-95b3653ed864)
 
 É possível notar que a análise é feita sentença por sentença até chegar ao fim do documento.
+![Captura de tela_20250127_140832](https://github.com/user-attachments/assets/199d6926-2c04-4dd1-a900-7661646c5a88)
+![Captura de tela_20250127_140849](https://github.com/user-attachments/assets/4ad493b0-9773-4da8-ad05-592aa4363594)
 
-![Captura de tela\_20250127\_140832]\(https\://github.com/user-attachments/assets/64ad7cfd-8726-4964-b093-4531d26dc7ed)
 
-![Captura de tela\_20250127\_140849]\(https\://github.com/user-attachments/assets/9245b05c-e58d-4bd4-9b57-c37de9d5a114)
